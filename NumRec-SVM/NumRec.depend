@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1355308698 source:f:\codeblocks programming\numrec\main.cpp
+	<iostream>
+	<fstream>
+	"opencv2/opencv.hpp"
+	<vector>
+
